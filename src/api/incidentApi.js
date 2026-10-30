@@ -1,5 +1,4 @@
-
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://lifelink-api-3p4l.onrender.com";
 
 export async function checkBackend() {
   const response = await fetch(`${API_BASE_URL}/health`);
