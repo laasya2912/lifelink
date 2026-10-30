@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Emergency Responder 01",
+    "role": "Verified Responder",
+    "distance": 1.2,
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "name": "Emergency Responder 02",
+    "role": "Medical Responder",
+    "distance": 2.1,
+    "status": "Available"
+  }
+]

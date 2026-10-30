@@ -1,0 +1,17 @@
+[
+  {
+    "id": "LL-2026-001",
+    "signalSource": "Simulated Vehicle + Phone Sensors",
+    "sourceStatus": "Simulated",
+    "impactForce": 92,
+    "suddenDeceleration": 88,
+    "suddenStop": true,
+    "orientationChange": 95,
+    "airbagTriggered": true,
+    "location": {
+      "latitude": 16.5062,
+      "longitude": 80.648,
+      "status": "Simulated GPS"
+    }
+  }
+]
